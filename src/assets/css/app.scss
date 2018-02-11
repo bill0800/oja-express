@@ -1,0 +1,11 @@
+@import "variables";
+@import '~bootstrap/scss/bootstrap';
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700");
+
+.bg-gray{
+  background-color: #f4f4f4;
+}
+
+.bg-orange{
+  background-color: $orange;
+}

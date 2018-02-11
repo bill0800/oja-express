@@ -1,0 +1,17 @@
+export const IS_LOADING = 'isLoading'
+export const IS_LOGGED_IN = 'isLoggedIn'
+export const AUTH_USER = 'authUser'
+export const ANY_AUTH_ERRORS = 'anyAuthError'
+
+// generic
+export const PAGINATION = 'pagination'
+export const ALL = 'all'
+export const COUNT = 'count'
+export const ITEM = 'item'
+export const ITEMS_BY_STORE = 'itemsByStore'
+export const HAS_ERROR_IN_FIELD = 'hasError'
+export const ANY_ERRORS = 'anyError'
+export const GET_ERROR_MSG = 'getErrorMsg'
+export const GET_ERROR_BY_FIELD = 'getError'
+export const GET_FORM = 'getForm'
+export const GET_FORM_FIELD = 'getFormField'

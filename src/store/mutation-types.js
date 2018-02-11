@@ -1,0 +1,21 @@
+export const START_LOADER = 'START_LOADER'
+export const STOP_LOADER = 'STOP_LOADER'
+
+export const TOGGLE_SIDEBAR = 'TOGGLE_SIDEBAR'
+
+export const SAVE_AUTH_DATA = 'SAVE_AUTH_DATA'
+export const CLEAR_AUTH_DATA = 'CLEAR_AUTH_DATA'
+export const CLEAR_CACHED_AUTH_DATA = 'CLEAR_CACHED_AUTH_DATA'
+export const CACHE_AUTH_DATA = 'CACHE_AUTH_DATA'
+export const RETRIEVE_CACHED_AUTH_DATA = 'RETRIEVE_CACHED_AUTH_DATA'
+
+export const SET_ALL = 'setAll'
+export const SET_PAGINATION = 'setPagination'
+export const ADD_ITEM = 'addItem'
+export const ADD_MANY_ITEMS = 'addManyItems'
+export const REMOVE_ITEM = 'removeItem'
+export const UPDATE_ITEM = 'updateItem'
+export const CLEAR_ERRORS = 'clearErrors'
+export const RECORD_ERRORS = 'recordErrors'
+export const RESET = 'reset'
+export const SET_FORM_FIELD = 'setFormField'
